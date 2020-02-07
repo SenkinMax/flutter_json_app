@@ -32,7 +32,7 @@ class Articles {
 }
 
 class TestHttp extends StatefulWidget {
-  final String url = 'https://my-json-server.typicode.com/SenkinMax/json_flutter_app/profile';
+  final String url = 'https://my-json-server.typicode.com/SenkinMax/flutter_json_app/profile';
 
   @override
   State<StatefulWidget> createState() => TestHttpState();
